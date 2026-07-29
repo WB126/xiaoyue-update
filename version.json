@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.0.1",
-  "wgtUrl": "https://WB126.github.io/xiaoyue-update/1.0.1.wgt",
+  "appVersion": "1.0.3",
+  "wgtUrl": "https://WB126.github.io/xiaoyue-update/1.0.3.wgt",
   "apkUrl": "https://WB126.github.io/xiaoyue-update/xiaoyue.apk",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "note": "优化体验，修复已知问题"
 }
